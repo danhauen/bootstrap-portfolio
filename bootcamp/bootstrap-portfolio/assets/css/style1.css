@@ -1,20 +1,50 @@
 body {
-    background-image: url(assets/images/white-waves.png);  
+    background-color: lightgrey;
 }
 
-div .container {
-    background-color: #cccccc;
+.container-sm {
+    background-color: #ffffff;
 }
 
-.container {
-
+p   {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
 
-h1 {
-
+.navbar {
+    background-color: #ffffff;
 }
 
-h2 {
+.navbar-nav {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.text-info {
+    color:#4aaaa5
+}
+
+h2 { 
     font-family: 'Georgia', Times, Times New Roman, serif;
+}
 
+.name {
+    color: #ffffff;   
+    background-color:#4aaaa5
+}
+
+.card-footer {  
+    background-color:#666666
+}
+
+.text-center {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+
+.border-top {
+    background-color:#4aaaa5
+    width: 70px;
+    height: 70px;
 }
