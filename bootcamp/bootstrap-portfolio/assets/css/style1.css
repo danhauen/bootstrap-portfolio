@@ -20,7 +20,7 @@ p   {
     color: #777777;
 }
 
-.text-info {
+.text {
     color:#4aaaa5
 }
 
@@ -35,6 +35,7 @@ h2 {
 
 .card-footer {  
     background-color:#666666
+
 }
 
 .text-center {
@@ -42,9 +43,16 @@ h2 {
     color: #ffffff;
 }
 
+.form-group {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
 
 .border-top {
     background-color:#4aaaa5
-    width: 70px;
-    height: 70px;
 }
