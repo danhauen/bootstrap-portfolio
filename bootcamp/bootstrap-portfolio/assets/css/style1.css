@@ -35,7 +35,6 @@ h2 {
 
 .card-footer {  
     background-color:#666666
-
 }
 
 .text-center {
@@ -53,6 +52,7 @@ h2 {
     color: #ffffff;
 }
 
-.border-top {
-    background-color:#4aaaa5
+label {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#666666
 }
